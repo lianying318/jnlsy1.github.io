@@ -1,6 +1,7 @@
 ---
-title: "lsy的个人主页":
-author_profile:111 
+permalink: /
+title: "About me"
+author_profile:ture
 redirect_from: 
   - /about/
   - /about.html
