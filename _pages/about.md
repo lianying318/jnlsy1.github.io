@@ -1,6 +1,6 @@
 ---
-title: "lsy的个人主页111"
-author_profile: true
+title: "lsy的个人主页"
+author_profile: 
 redirect_from: 
   - /about/
   - /about.html
