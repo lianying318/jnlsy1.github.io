@@ -1,6 +1,6 @@
 ---
 title: "lsy的个人主页"
-author_profile: 
+author_profile:111 
 redirect_from: 
   - /about/
   - /about.html
