@@ -1,5 +1,5 @@
 ---
-title: "lsy的个人主页"
+title: "lsy的个人主页":
 author_profile:111 
 redirect_from: 
   - /about/
